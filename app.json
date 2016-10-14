@@ -1,0 +1,1 @@
+{"name":"infer ownership","repository":"https://github.com/initialversion/infer-ownership-1476462643","env":{"CLOUDINARY_CLOUD_NAME":{"required":true},"CLOUDINARY_API_KEY":{"required":true},"CLOUDINARY_API_SECRET":{"required":true}}}
